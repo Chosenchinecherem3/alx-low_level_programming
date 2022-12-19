@@ -8,7 +8,7 @@
  * @b: Pointer to the second integer
  *
  * Return: Returns nothing
- */ 
+ */
 
 void swap_int(int *a, int *b)
 
